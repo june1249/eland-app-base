@@ -8,7 +8,7 @@ angular.module('menuTree', [])
         menuState: '@'
       },
       replace: false,
-      templateUrl: "templates/menu-tree.html",
+      templateUrl: "templates/partials/menu-tree.html",
       controller: ['$scope', '$ionicSideMenuDelegate', '$state', '$stateParams', '$ionicHistory', '$location',
       function($scope, $ionicSideMenuDelegate, $state, $stateParams, $ionicHistory, $location) {
 
