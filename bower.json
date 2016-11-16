@@ -3,9 +3,6 @@
   "private": "true",
   "devDependencies": {
     "ionic": "driftyco/ionic-bower#1.3.1",
-    "ngCordova": "ngCordova#v0.1.27-alpha",
-    "ngStorage": "ngstorage#0.3.11",
-    "ngDialog": "ng-dialog#v0.6.4",
     "eland-super-popup": "eland-super-popup#1.0.0"
   }
 }
